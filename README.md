@@ -1,2 +1,2 @@
 # uni
-applied mathematics projects
+projects in Python and Julia for my Applied Mathematics studies
