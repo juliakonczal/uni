@@ -1,3 +1,4 @@
+#author: Julia Kończal
 import matplotlib
 matplotlib.use('TkAgg')
 from numpy import *
